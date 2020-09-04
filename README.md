@@ -6,8 +6,6 @@ This is a random quote generator.
 
 If you want to add more quotes just add a new object to the "quotes" variable in the next format:
 
---quote = "string"
---source
 ```javascript
 {
     quote: "My Quote",
