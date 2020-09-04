@@ -10,8 +10,8 @@ If you want to add more quotes just add a new object to the "quotes" variable in
 {
     quote: "My Quote",
     source: "author",
-    citation: "speech,publication or a movie", // (Optional)
-    year: 2020 // (Optionals)
- },
+    citation: "speech, publication or a movie" // (Optional)
+    year: 2020 // (Optional)
+}
 
 
